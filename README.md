@@ -1,2 +1,3 @@
-# ocos-sandbox-test
-Scratch repo for OCOS sandbox policy tests (safe to break)
+# Scratch
+
+Scratch repository used by automated tests. Contents are throwaway.
